@@ -1,0 +1,37 @@
+2025-04-01 05:42:23,405 - root - INFO - 로깅 설정이 완료되었습니다.
+2025-04-01 05:42:23,407 - root - INFO - 애플리케이션 시작 중...
+2025-04-01 05:42:23,407 - root - INFO - MEXC API 클라이언트가 초기화되었습니다.
+2025-04-01 05:42:23,439 - db_manager - INFO - 데이터베이스가 초기화되었습니다.
+2025-04-01 05:42:23,439 - root - INFO - 데이터베이스 매니저가 초기화되었습니다.
+2025-04-01 05:42:23,440 - root - INFO - 거래 봇이 초기화되었습니다.
+2025-04-01 05:42:23,442 - root - INFO - 텔레그램 봇이 초기화되었습니다.
+2025-04-01 05:42:23,442 - root - INFO - 텔레그램 봇 실행 중...
+2025-04-01 05:42:23,443 - telegram_bot_core - INFO - 텔레그램 봇 시작
+2025-04-01 05:45:20,746 - telegram_bot_core - WARNING - 인증되지 않은 사용자 접근 시도: ID=165706381, Username=purple_in_the_zone
+2025-04-01 05:49:10,329 - telegram_bot_core - WARNING - 인증되지 않은 사용자 접근 시도: ID=7739042399, Username=onchain_federation
+2025-04-01 05:52:33,372 - telegram_bot_core - WARNING - 인증되지 않은 사용자 접근 시도: ID=165706381, Username=purple_in_the_zone
+2025-04-01 05:52:43,723 - telegram_bot_core - WARNING - 인증되지 않은 사용자 접근 시도: ID=7739042399, Username=onchain_federation
+2025-04-01 05:52:52,108 - telegram_bot_core - WARNING - 인증되지 않은 사용자 접근 시도: ID=7739042399, Username=onchain_federation
+2025-04-01 05:54:21,097 - telegram_bot_core - WARNING - 인증되지 않은 사용자 접근 시도: ID=7739042399, Username=onchain_federation
+2025-04-01 05:55:32,821 - telegram_bot_core - WARNING - 인증되지 않은 사용자 접근 시도: ID=7739042399, Username=onchain_federation
+2025-04-01 05:55:47,405 - telegram_bot_core - WARNING - 인증되지 않은 사용자 접근 시도: ID=165706381, Username=purple_in_the_zone
+2025-04-01 05:57:02,611 - telegram_bot_core - WARNING - 인증되지 않은 사용자 접근 시도: ID=165706381, Username=purple_in_the_zone
+2025-04-01 05:58:20,144 - telegram_bot_core - WARNING - 인증되지 않은 사용자 접근 시도: ID=165706381, Username=purple_in_the_zone
+2025-04-01 06:00:19,633 - telegram_bot_core - WARNING - 인증되지 않은 사용자 접근 시도: ID=165706381, Username=purple_in_the_zone
+2025-04-01 06:01:34,240 - telegram_bot_core - WARNING - 인증되지 않은 사용자 접근 시도: ID=165706381, Username=purple_in_the_zone
+2025-04-01 06:04:03,899 - telegram_bot_core - WARNING - 인증되지 않은 사용자 접근 시도: ID=165706381, Username=purple_in_the_zone
+2025-04-01 06:07:59,623 - telegram_bot_core - WARNING - 인증되지 않은 사용자 접근 시도: ID=165706381, Username=purple_in_the_zone
+2025-04-01 06:09:25,917 - telegram_bot_core - WARNING - 인증되지 않은 사용자 접근 시도: ID=165706381, Username=purple_in_the_zone
+2025-04-01 06:11:55,432 - telegram_bot_core - WARNING - 인증되지 않은 사용자 접근 시도: ID=165706381, Username=purple_in_the_zone
+2025-04-01 06:12:11,164 - telegram_bot_core - WARNING - 인증되지 않은 사용자 접근 시도: ID=165706381, Username=purple_in_the_zone
+2025-04-01 06:14:20,183 - telegram_bot_core - WARNING - 인증되지 않은 사용자 접근 시도: ID=7739042399, Username=onchain_federation
+2025-04-01 06:17:44,046 - telegram_bot_core - WARNING - 인증되지 않은 사용자 접근 시도: ID=165706381, Username=purple_in_the_zone
+2025-04-01 06:23:46,883 - telegram_bot_core - WARNING - 인증되지 않은 사용자 접근 시도: ID=165706381, Username=purple_in_the_zone
+2025-04-01 06:27:32,737 - telegram_bot_core - WARNING - 인증되지 않은 사용자 접근 시도: ID=165706381, Username=purple_in_the_zone
+2025-04-01 06:29:38,725 - telegram_bot_core - WARNING - 인증되지 않은 사용자 접근 시도: ID=165706381, Username=purple_in_the_zone
+2025-04-01 06:32:54,751 - telegram_bot_core - WARNING - 인증되지 않은 사용자 접근 시도: ID=165706381, Username=purple_in_the_zone
+2025-04-01 06:34:01,508 - telegram_bot_core - WARNING - 인증되지 않은 사용자 접근 시도: ID=165706381, Username=purple_in_the_zone
+2025-04-01 06:36:15,369 - telegram_bot_core - WARNING - 인증되지 않은 사용자 접근 시도: ID=165706381, Username=purple_in_the_zone
+2025-04-01 06:36:19,531 - telegram_bot_core - WARNING - 인증되지 않은 사용자 접근 시도: ID=165706381, Username=purple_in_the_zone
+2025-04-01 06:36:28,404 - telegram_bot_core - WARNING - 인증되지 않은 사용자 접근 시도: ID=165706381, Username=purple_in_the_zone
+2025-04-01 06:37:02,783 - telegram_bot_core - WARNING - 인증되지 않은 사용자 접근 시도: ID=7739042399, Username=onchain_federation
